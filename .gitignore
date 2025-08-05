@@ -4,11 +4,8 @@ __pycache__/
 *.pyd
 .Python
 env/
-venv/
+app/venv/
 .venv/
 .env
 *.log
 .DS_Store
-venv/
-*.pyc
-__pycache__/
